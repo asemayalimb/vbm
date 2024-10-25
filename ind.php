@@ -2,7 +2,7 @@
 
 if ( isset($_POST['cancel'] ) ) {
     // Redirect the browser to game.php
-    header("Location: index.php");
+    header("Location: index.html");
     return;
 }
 
@@ -33,7 +33,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Zeeshan Shaikh d71dd235</title>
+<title>Zeeshan Shaikh bf1752a1 </title>
 </head>
 <body>
 <div class="container">
