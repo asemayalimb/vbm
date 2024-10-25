@@ -52,7 +52,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>ANSHUL AGRAWAL</title>
+<title>ANSHUL AGRAWAL bf1752a1 </title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
